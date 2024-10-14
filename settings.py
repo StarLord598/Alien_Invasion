@@ -6,4 +6,5 @@ class Settings:
         # Screen settings
         self.screen_width = 1200
         self.screen_height = 800
-        self.bg_color = (230, 230, 230)
+        # self.bg_color = (230, 230, 230) # grey
+        self.bg_color = (0, 100, 200) # light pale blue # exercise 12-1
